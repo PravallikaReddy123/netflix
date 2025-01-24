@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.profiles-for-kids-container-bg {
+    background-color: #000000;
+    width: 100vw;
+}
+
+.top-container {
+    margin-top: 50px;
+}
+
+#header-select {
+    color: #ffffff;
+    border-radius: 3px;
+    background-color: #000000;
+    font-size: 12px;
+    font-weight: 400;
+    border: 2px solid #ffffff;
+    height: 30px;
+    width: 100px;
+}
+
+.sign-in-button {
+    height: 30px;
+    width: 60px;
+    font-weight: 500;
+}
+
+.header-select {
+    color: #ffffff;
+    border-radius: 3px;
+    background-color: #000000;
+    font-size: 15px;
+    font-weight: 450;
+    border: 1px solid #ffffff;
+    height: 42px;
+    width: 120px;
+    margin: 10px;
+}
+
+.netflix-logo {
+    color: red;
+    font-family: Sans-Serif;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.top-section {
+    background-image: url('https://assets.nflxext.com/ffe/siteui/vlv3/42df4e1f-bef6-499e-87ff-c990584de314/5e7c383c-1f88-4983-b4da-06e14c0984ba/IN-en-20230904-popsignuptwoweeks-perspective_alpha_website_medium.jpg');
+    /*    background-image: url('https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1574375927938-d5a98e8ffe85%3Fixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxzZWFyY2h8NHx8bmV0ZmxpeHxlbnwwfHwwfHx8MA%253D%253D%26w%3D1000%26q%3D80&tbnid=MpznJCRACcz5NM&vet=12ahUKEwjltPmc1KWBAxUA2jgGHcrlC1wQMygJegQIARBl..i&imgrefurl=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fnetflix&docid=nfdMHOC6hcy1nM&w=1000&h=668&q=netflix%20homepage%20background%20image&ved=2ahUKEwjltPmc1KWBAxUA2jgGHcrlC1wQMygJegQIARBl');
+    */
+    height: 76vh;
+    width: 100vw;
+    background-size: cover;
+}
+
+.profiles-for-kids-heading {
+    color: #ffffff;
+    font-size: 27px;
+    font-weight: bold;
+
+}
+
+.profiles-for-kids-para {
+    font-size: 15px;
+    color: #ffffff;
+    font-weight: 500;
+}
+
+hr {
+    border: 2px solid #232323;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.Frequently-asked-questions-each-container {
+    height: 46px;
+    background-color: #232323;
+    padding: 10px;
+}
+
+.icon {
+    color: #ffffff;
+}
+
+.ready-to-watch-para {
+    color: #ffffff;
+    font-size: 15px;
+    text-align: center;
+}
+
+.inputEle {
+    border: 0.5px solid #706f6f;
+    border-radius: 4px;
+    background-color: black;
+    width: 280px;
+    height: 40px;
+}
+
+button {
+    height: 42px;
+}
+
+a {
+    text-decoration: underline;
+    color: #ffffffB3;
+    font-size: 13px;
+    display: block;
+    margin-top: 15px;
+
+
+}
+
+.footer-para {
+    color: #ffffffB3;
+    font-size: 15px;
+}
+
+.footer-call-anchor {
+    text-decoration: underline;
+    color: #ffffffB3;
+    font-size: 15px;
+    display: inline;
+}
+
+.footer-select {
+    color: #ffffff;
+    border-radius: 3px;
+    background-color: #000000;
+    font-size: 15px;
+    font-weight: 450;
+    border: 2px solid #ffffff;
+    height: 42px;
+    width: 120px;
+}
